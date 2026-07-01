@@ -75,3 +75,9 @@ logs/
 *.bak
 *.tmp
 .DS_Store?
+
+# === Temp / Test ===
+fruits.txt
+test/
+temp/
+*.test.*
